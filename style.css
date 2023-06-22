@@ -10,6 +10,13 @@
   .header {
     text-align: center;
     padding: 22px;
+    background-color:#f1fff1;
+    font-family: cursive, Lucida Handwring, sans-serif;
+  }
+
+  .header p {
+     background-color: yellowgreen;
+     color: white;
   }
   
   .row {
@@ -28,6 +35,10 @@
   .column img {
     margin-top: 8px;
     vertical-align: middle;
+  }
+
+  .footer {
+    font-family: lucida handwriting, Arial, Helvetica, sans-serif;
   }
   
   /* Responsive layout - makes a two column-layout instead of four columns */
